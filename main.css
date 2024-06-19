@@ -1,3 +1,4 @@
+/*Header*/
 body{
     font-family: 'Roboto';
 }
@@ -43,6 +44,7 @@ a{
   justify-content: center;
 }
 
+/*Hero*/
 .hero{
     background-color: #1f2937;
     display: flex;
@@ -82,6 +84,7 @@ h1{
    
 }
 
+/*Information*/
 h2 {
     display: flex;
     justify-content: center;
@@ -117,6 +120,7 @@ h2 {
 }
 
 
+/*Quote*/
 .quote{
     background-color: #E5E7EB;
     height: 250px;
@@ -138,6 +142,8 @@ h3{
  
 }
 
+
+/*Sign-up*/
 .sign-up{
    padding: 75px;
 }
@@ -186,6 +192,7 @@ h3{
 
 }
 
+/*Footer*/
 .footer{
     background-color: #1F2937;
     color:#E5E7EB;
